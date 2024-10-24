@@ -1,0 +1,289 @@
+AWS Account Report
+
+All Controls
+AWS Foundational Security Best Practices
+
+AWS/CostExplorer
+Cost Explorer Checks
+
+AWS/IAM
+AWS IAM Access Key Age Report
+AgeAWS/IAMReport
+AWS IAM Action Glob Report
+SecurityAWS/IAMReport
+AWS IAM Credential Report
+Credential ReportAWS/IAMReport
+AWS IAM Group Dashboard
+AWS/IAMDashboard
+AWS IAM Group Detail
+AWS/IAMDetail
+AWS IAM Policy Detail
+AWS/IAMDetail
+AWS IAM Role Dashboard
+AWS/IAMDashboard
+AWS IAM Role Detail
+AWS/IAMDetail
+AWS IAM Root Access Report
+Credential ReportAWS/IAMReport
+AWS IAM User Dashboard
+AWS/IAMDashboard
+AWS IAM User Detail
+AWS/IAMDetail
+AWS IAM User Excessive Privilege Report
+PermissionsAWS/IAMReport
+AWS IAM User MFA Report
+SecurityAWS/IAMReport
+
+AWS/EC2
+AWS EC2 AMI Detail
+AWS EC2 Application Load Balancer Detail
+AWS/EC2Detail
+AWS EC2 Classic Load Balancer Detail
+AWS/EC2Detail
+AWS EC2 Gateway Load Balancer Detail
+AWS/EC2Detail
+AWS EC2 Instance Age Report
+AgeAWS/EC2Report
+AWS EC2 Instance Dashboard
+AWS/EC2Dashboard
+AWS EC2 Instance Detail
+AWS/EC2Detail
+AWS EC2 Instance Public Access Report
+Public AccessAWS/EC2Report
+AWS EC2 Network Interface Detail
+AWS/EC2Detail
+AWS EC2 Network Load Balancer Detail
+AWS/EC2Detail
+EC2 Checks
+CostAWS/EC2Benchmark
+
+AWS/S3
+AWS S3 Bucket Age Report
+AgeAWS/S3Report
+AWS S3 Bucket Dashboard
+AWS/S3Dashboard
+AWS S3 Bucket Detail
+AWS/S3Detail
+AWS S3 Bucket Encryption Report
+EncryptionAWS/S3Report
+AWS S3 Bucket Lifecycle Report
+LifecycleAWS/S3Report
+AWS S3 Bucket Logging Report
+LoggingAWS/S3Report
+AWS S3 Bucket Public Access Report
+Public AccessAWS/S3Report
+S3 Checks
+CostAWS/S3Benchmark
+
+AWS/VPC
+AWS VPC Dashboard
+AWS/VPCDashboard
+AWS VPC Detail
+AWS/VPCDetail
+AWS VPC Elastic IP Detail
+AWS/VPCDetail
+AWS VPC Flow Logs Detail
+AWS/VPCDetail
+AWS VPC Flow Logs Report
+LoggingAWS/VPCReport
+AWS VPC Security Group Dashboard
+AWS/VPCDashboard
+AWS VPC Security Group Detail
+AWS/VPCDetail
+AWS VPC Subnet Detail
+AWS/VPCDetail
+Networking Checks
+CostAWS/VPCBenchmark
+
+AWS/Lambda
+AWS Lambda Function Dashboard
+AWS/LambdaDashboard
+AWS Lambda Function Detail
+AWS/LambdaDetail
+AWS Lambda Function Encryption Report
+EncryptionAWS/LambdaReport
+AWS Lambda Function Public Access Report
+Public AccessAWS/LambdaReport
+Lambda Checks
+CostAWS/LambdaBenchmark
+
+AWS/RDS
+AWS RDS DB Cluster Age Report
+AgeAWS/RDSReport
+AWS RDS DB Cluster Dashboard
+AWS/RDSDashboard
+AWS RDS DB Cluster Detail
+AWS/RDSDetail
+AWS RDS DB Cluster Encryption Report
+EncryptionAWS/RDSReport
+AWS RDS DB Cluster Logging Report
+LoggingAWS/RDSReport
+AWS RDS DB Cluster Snapshot Age Report
+AgeAWS/RDSReport
+AWS RDS DB Cluster Snapshot Dashboard
+AWS/RDSDashboard
+AWS RDS DB Cluster Snapshot Detail
+AWS/RDSDetail
+AWS RDS DB Cluster Snapshot Encryption Report
+EncryptionAWS/RDSReport
+AWS RDS DB Instance Age Report
+AgeAWS/RDSReport
+AWS RDS DB Instance Dashboard
+AWS/RDSDashboard
+AWS RDS DB Instance Detail
+AWS/RDSDetail
+AWS RDS DB Instance Encryption Report
+EncryptionAWS/RDSReport
+AWS RDS DB Instance Logging Report
+LoggingAWS/RDSReport
+AWS RDS DB Instance Public Access Report
+Public AccessAWS/RDSReport
+AWS RDS DB Instance Snapshot Age Report
+AgeAWS/RDSReport
+AWS RDS DB Instance Snapshot Dashboard
+AWS/RDSDashboard
+AWS RDS DB Instance Snapshot Detail
+AWS/RDSDetail
+AWS RDS DB Instance Snapshot Encryption Report
+EncryptionAWS/RDSReport
+RDS Checks
+CostAWS/RDSBenchmark
+
+AWS/Backup
+AWS Backup Plan Detail
+AWS Backup Vault Detail
+
+AWS/CloudFront
+AWS CloudFront Distribution Dashboard
+AWS CloudFront Distribution Detail
+CloudFront Checks
+
+AWS/CloudTrail
+AWS CloudTrail Trail Dashboard
+AWS CloudTrail Trail Detail
+AWS CloudTrail Trail Encryption Report
+AWS CloudTrail Trail Logging Report
+LoggingAWS/CloudTrailReport
+CloudTrail Checks
+
+AWS/CloudWatch
+AWS CloudWatch Log Group Detail
+CloudWatch Checks
+
+AWS/ECR
+AWS ECR Repository Age Report
+AgeAWS/ECRReport
+AWS ECR Repository Dashboard
+AWS/ECRDashboard
+AWS ECR Repository Detail
+AWS/ECRDetail
+
+AWS/ECS
+AWS ECS Cluster Dashboard
+AWS/ECSDashboard
+AWS ECS Cluster Detail
+AWS/ECSDetail
+AWS ECS Service Detail
+AWS/ECSDetail
+AWS ECS Task Definition Detail
+AWS/ECSDetail
+ECS Checks
+CostAWS/ECSBenchmark
+
+AWS/EFS
+AWS EFS File System Age Report
+AgeAWS/EFSReport
+AWS EFS File System Dashboard
+AWS/EFSDashboard
+AWS EFS File System Detail
+AWS/EFSDetail
+
+AWS/EKS
+AWS EKS Cluster Age Report
+AgeAWS/EKSReport
+AWS EKS Cluster Dashboard
+AWS/EKSDashboard
+AWS EKS Cluster Detail
+AWS/EKSDetail
+EKS Checks
+CostAWS/EKSBenchmark
+
+AWS/EMR
+AWS EMR Cluster Age Report
+AgeAWS/EMRReport
+AWS EMR Cluster Dashboard
+AWS/EMRDashboard
+AWS EMR Cluster Detail
+AWS/EMRDetail
+EMR Checks
+CostAWS/EMRBenchmark
+
+AWS/ElastiCache
+AWS ElastiCache Cluster Detail
+AWS/ElastiCacheDetail
+AWS ElastiCache Cluster Node Age Report
+AgeAWS/ElastiCacheReport
+AWS ElastiCache Cluster Node Dashboard
+AWS/ElastiCacheDashboard
+AWS ElastiCache Cluster Node Detail
+AWS/ElastiCacheDetail
+ElastiCache Checks
+CostAWS/ElastiCacheBenchmark
+
+AWS/EventBridge
+AWS EventBridge Rule Detail
+AWS/EventBridgeDetail
+
+AWS/Redshift
+AWS Redshift Cluster Age Report
+AgeAWS/RedshiftReport
+AWS Redshift Cluster Dashboard
+AWS/RedshiftDashboard
+AWS Redshift Cluster Detail
+AWS/RedshiftDetail
+AWS Redshift Cluster Encryption Report
+EncryptionAWS/RedshiftReport
+AWS Redshift Cluster Logging Report
+LoggingAWS/RedshiftReport
+AWS Redshift Cluster Public Access Report
+Public AccessAWS/RedshiftReport
+AWS Redshift Snapshot Detail
+AWS/RedshiftDetail
+Redshift Checks
+CostAWS/RedshiftBenchmark
+
+AWS/Route 53
+Route 53 Checks
+CostAWS/Route 53Benchmark
+
+AWS/SNS
+AWS SNS Topic Dashboard
+AWS/SNSDashboard
+AWS SNS Topic Detail
+AWS/SNSDetail
+AWS SNS Topic Encryption Report
+EncryptionAWS/SNSReport
+AWS/SQS
+AWS SQS Queue Dashboard
+AWS/SQSDashboard
+AWS SQS Queue Detail
+AWS/SQSDetail
+AWS SQS Queue Encryption Report
+EncryptionAWS/SQSReport
+AWS/Secrets Manager
+Secrets Manager Checks
+CostAWS/Secrets ManagerBenchmark
+AWS/VPC
+
+Certificates
+Australian Cyber Security Center (ACSC) Essential Eight
+
+CIS AWS Compute Services Benchmark v1.0.0
+CIS Controls v8 IG1
+CIS v1.2.0
+CIS v1.3.0
+CIS v1.4.0
+CIS v1.5.0
+CIS v2.0.0
+CIS v3.0.0
+CISA Cyber Essentials
